@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working on Global Response System<br>I am Best in in C++, Python and Java<br> Learning Cloud Development using Gen AI <br>I am also an AI developer as well as a Quant Analyst for a small hedge fund
+I am Currently working on Global Emergency   Response System<br>I am Best in in C++, Python and Java<br> Learning Cloud Development using Gen AI <br>I am also an AI developer as well as a Quant Analyst for a small hedge fund
 
 
 ## 🌐 Socials:
