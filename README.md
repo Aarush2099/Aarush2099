@@ -22,6 +22,3 @@ I am Currently working on Global Emergency   Response System<br>I am Best in in 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aarush2099&icon=0&color=3)](https://visitcount.itsvg.in)
-
-
-![snake gif](https://github.com/Aarush2099/blob/output/github-snake-dark.svg)
