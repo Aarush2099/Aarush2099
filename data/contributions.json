@@ -1,21 +1,21 @@
 {
   "username": "Aarush2099",
-  "generated_at": "2026-11-07T13:05:26Z",
+  "generated_at": "2026-11-08T13:27:59Z",
   "range": {
-    "start": "2025-11-02",
-    "end": "2026-11-07"
+    "start": "2025-11-09",
+    "end": "2026-11-08"
   },
-  "total_contributions": 1587,
-  "active_days": 292,
+  "total_contributions": 1555,
+  "active_days": 286,
   "avg_per_active_day": 5.4,
   "current_streak": {
-    "length": 101,
+    "length": 102,
     "start": "2026-07-29",
-    "end": "2026-11-06"
+    "end": "2026-11-07"
   },
   "longest_streak": {
-    "length": 172,
-    "start": "2025-11-02",
+    "length": 165,
+    "start": "2025-11-09",
     "end": "2026-04-22"
   },
   "best_day": {
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 156
+      "total": 122
     },
     {
       "month": "2025-12",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 6
+      "total": 8
     }
   ],
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 5
-    },
-    {
-      "date": "2025-11-03",
-      "count": 4
-    },
-    {
-      "date": "2025-11-04",
-      "count": 4
-    },
-    {
-      "date": "2025-11-05",
-      "count": 8
-    },
-    {
-      "date": "2025-11-06",
-      "count": 4
-    },
-    {
-      "date": "2025-11-07",
-      "count": 4
-    },
-    {
-      "date": "2025-11-08",
-      "count": 5
-    },
     {
       "date": "2025-11-09",
       "count": 7
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-11-07",
+      "count": 2
+    },
+    {
+      "date": "2026-11-08",
       "count": 0
     }
   ]
