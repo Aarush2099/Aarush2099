@@ -1,43 +1,14 @@
+<!-- Animated SVG cards are rendered by scripts/render_readme_cards.py and refreshed daily by .github/workflows/update-profile-art.yml. -->
 <div align="center">
-
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo_offline.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
-
-<h3><code>007@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./aarush-ascii.svg" width="370" alt="Aarush Mahajan — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="007 — 3D ASCII wordmark" /></td>
-</tr>
-</table>
-
-<br>
-<br>
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>007@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Aarush's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
-<h3><code>007@github ~ $ ./links.sh</code></h3>
-
-<p><b>CSE Student · AI Dev · Hackathon Winner</b></p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aarush--mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-mahajan-248679307)
-[![Instagram](https://img.shields.io/badge/Instagram-aarushmahajan007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aarushmahajan007)
-[![X](https://img.shields.io/badge/X-aarushmahajan07-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aarushmahajan07)
-[![Devpost](https://img.shields.io/badge/Devpost-aarushmahajan2008-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/aarushmahajan2008)
-
-<br>
-
+<a href="https://www.linkedin.com/in/aarush007"><img src="./cards/hero.svg" width="100%" alt="Aarush Mahajan. Computer Science (B.Tech) at Manipal University Jaipur. TKS Innovate Student." /></a><br>
+<img src="./cards/heatmap.svg" width="100%" alt="Aarush's contribution graph, refreshed daily" /><br>
+<img src="./cards/activity.svg" width="100%" alt="GitHub contributions in the last 12 months, by month, with streak statistics" /><br>
+<a href="https://github.com/Aarush2099"><img src="./cards/build.svg" width="33.333%" alt="BUILD" /></a><a href="https://github.com/Aarush2099?tab=repositories"><img src="./cards/explore.svg" width="33.333%" alt="EXPLORE" /></a><a href="https://www.linkedin.com/in/aarush007"><img src="./cards/learn.svg" width="33.333%" alt="LEARN" /></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-coding-dark.svg" /><img src="./cards/title-coding-light.svg" width="100%" alt="What I'm coding" /></picture><br>
+<a href="https://github.com/Aarush2099/TKS-Create-Aegis-Orbit"><img src="./cards/repo-tks.svg" width="33.333%" alt="TKS-Create-Aegis-Orbit" /></a><a href="https://github.com/Aarush2099/Pgc2"><img src="./cards/repo-create.svg" width="33.333%" alt="Pgc2" /></a><a href="https://github.com/Aarush2099/Tactile-Text"><img src="./cards/repo-aegis.svg" width="33.333%" alt="Tactile-Text" /></a><br>
+<a href="https://github.com/Aarush2099/SightCom"><img src="./cards/repo-orbit.svg" width="33.333%" alt="SightCom" /></a><a href="https://github.com/Aarush2099/Digital-Farmer"><img src="./cards/repo-carbonconversations.svg" width="33.333%" alt="Digital-Farmer" /></a><a href="https://github.com/Aarush2099/Teens-In-AI-Verdant-Green"><img src="./cards/repo-pgcapril.svg" width="33.333%" alt="Teens-In-AI-Verdant-Green" /></a>
 </div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aarush007">linkedin</a> &nbsp;/&nbsp; <a href="https://github.com/Aarush2099">github</a>
+</p>
