@@ -1,32 +1,29 @@
 {
   "username": "Aarush2099",
-  "generated_at": "2026-11-27T16:42:14Z",
+  "generated_at": "2026-11-27T20:16:22Z",
   "range": {
-    "start": "2025-11-23",
+    "start": "2025-11-28",
     "end": "2026-11-27"
   },
-  "total_contributions": 1499,
-  "active_days": 291,
-  "avg_per_active_day": 5.2,
+  "total_contributions": 1482,
+  "total": 1482,
+  "active_days": 287,
   "current_streak": {
-    "length": 121,
-    "start": "2026-07-29",
-    "end": "2026-11-26"
+    "length": 122
   },
   "longest_streak": {
-    "length": 151,
-    "start": "2025-11-23",
-    "end": "2026-04-22"
+    "length": 146
   },
+  "streak": 122,
   "best_day": {
     "date": "2026-03-08",
     "count": 114
   },
+  "busiest": {
+    "date": "2026-03-08",
+    "count": 114
+  },
   "monthly": [
-    {
-      "month": "2025-11",
-      "total": 46
-    },
     {
       "month": "2025-12",
       "total": 183
@@ -73,30 +70,60 @@
     },
     {
       "month": "2026-11",
-      "total": 30
+      "total": 31
+    }
+  ],
+  "months": [
+    {
+      "label": "Dec",
+      "count": 183
+    },
+    {
+      "label": "Jan",
+      "count": 170
+    },
+    {
+      "label": "Feb",
+      "count": 167
+    },
+    {
+      "label": "Mar",
+      "count": 343
+    },
+    {
+      "label": "Apr",
+      "count": 189
+    },
+    {
+      "label": "May",
+      "count": 33
+    },
+    {
+      "label": "Jun",
+      "count": 171
+    },
+    {
+      "label": "Jul",
+      "count": 48
+    },
+    {
+      "label": "Aug",
+      "count": 58
+    },
+    {
+      "label": "Sep",
+      "count": 30
+    },
+    {
+      "label": "Oct",
+      "count": 31
+    },
+    {
+      "label": "Nov",
+      "count": 31
     }
   ],
   "days": [
-    {
-      "date": "2025-11-23",
-      "count": 4
-    },
-    {
-      "date": "2025-11-24",
-      "count": 4
-    },
-    {
-      "date": "2025-11-25",
-      "count": 3
-    },
-    {
-      "date": "2025-11-26",
-      "count": 4
-    },
-    {
-      "date": "2025-11-27",
-      "count": 3
-    },
     {
       "date": "2025-11-28",
       "count": 12
@@ -1555,7 +1582,7 @@
     },
     {
       "date": "2026-11-27",
-      "count": 0
+      "count": 1
     }
   ]
 }
